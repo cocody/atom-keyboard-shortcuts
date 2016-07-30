@@ -31,7 +31,7 @@ Some general keyboard shortcuts that I use frequently.
 ## Window Management
 
 | Command | Mac OS X | Windows | Linux | Sublime | Description |
-| ------- | -------- | ------- | ----- | ----------- |
+| ------- | -------- | ------- | ----- | ------- | ----------- |
 | New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | `ctrl-n` | Opens an empty file in a new tab |
 | New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | `ctrl-shift-n` | Opens a new editor window |
 | Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | `-` | Shows the _Open File_ dialog, which lets you select a file to open in the editor |
@@ -45,7 +45,7 @@ Some general keyboard shortcuts that I use frequently.
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Sublime | Description |
-| ------- | -------- | ------- | ----- | ----------- |
+| ------- | -------- | ------- | ----- | ------- | ----------- |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | `-` | Deletes the current line |
 | Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | `* ctrl-shift-up *` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
@@ -65,7 +65,7 @@ Some general keyboard shortcuts that I use frequently.
 These are some packages I find useful, and their most useful key bindings. A list of my favorite packages can be found [here](https://atom.io/users/nwinkler/stars).
 
 | Command | Mac OS X | Windows | Linux | Sublime | Package |
-| ------- | -------- | ------- | ----- | ----------- |
+| ------- | -------- | ------- | ----- | ------- | ------- |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Beautify | `ctrl-alt-b` |  |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
 | Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
