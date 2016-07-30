@@ -30,7 +30,7 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Window Management
 
-| Command | Mac OS X | Windows | Linux | Description |
+| Command | Mac OS X | Windows | Linux | Sublime | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | `ctrl-n` | Opens an empty file in a new tab |
 | New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | `ctrl-shift-n` | Opens a new editor window |
@@ -44,41 +44,41 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Editing
 
-| Command | Mac OS X | Windows | Linux | Description |
+| Command | Mac OS X | Windows | Linux | Sublime | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | `-` | Deletes the current line |
-| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | `**ctrl-shift-up**` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
-| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
-| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
-| Find Next | `cmd-g` | `F3`  | `F3` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
-| Find Previous | `shift-cmd-g | `shift-F3`  | `shift-F3` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
-| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | Opens the Find in Project Panel |
-| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | Opens the Go To Line panel |
-| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
-| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the entire line the cursor's current position is in |
-| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
-| Column Selection | `ctrl-shift-up/down` |  |  | Allows to select multiple rows, where the same edit will be applied |
+| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | `* ctrl-shift-up *` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
+| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | `* ctrl-shift-down *` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
+| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | `ctrl-f` | Opens up the Find/Replace panel |
+| Find Next | `cmd-g` | `F3`  | `F3` | `-` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
+| Find Previous | `shift-cmd-g` | `shift-F3`  | `shift-F3` | `-` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
+| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | `ctrl-shift-f` | Opens the Find in Project Panel |
+| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | `ctrl-g` | Opens the Go To Line panel |
+| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
+| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | `ctrl-l` | Selects the entire line the cursor's current position is in |
+| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
+| Column Selection | `ctrl-shift-up/down` |  |  |  | Allows to select multiple rows, where the same edit will be applied |
 
 ## Various Packages
 
 These are some packages I find useful, and their most useful key bindings. A list of my favorite packages can be found [here](https://atom.io/users/nwinkler/stars).
 
-| Command | Mac OS X | Windows | Linux | Package |
+| Command | Mac OS X | Windows | Linux | Sublime | Package |
 | ------- | -------- | ------- | ----- | ----------- |
-| Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
-| Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
-| Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
-| Incremental Search | `cmd-i` |  |  | [Incremental Search](https://atom.io/packages/incremental-search) |
-| Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
-| Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
-| Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
-| Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
-| Run Script | `ctrl-cmd-i` |  |  | [Script](https://atom.io/packages/script) - Keybinding remapped from original `cmd-i` to avoid conflict with Incremental Search |
-| Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
+| Block Travel up/down | `alt-up`, `alt-down` |  |  |  | [Block Travel](https://atom.io/packages/block-travel) |
+| Beautify | `ctrl-alt-b` |  |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
+| Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
+| Incremental Search | `cmd-i` |  |  |  | [Incremental Search](https://atom.io/packages/incremental-search) |
+| Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | `-` | [Git Plus](https://atom.io/packages/git-plus) |
+| Jumpy | `shift-enter` |  |  |  | [Jumpy](https://atom.io/packages/jumpy) |
+| Minimap Toggle | `ctrl-k ctrl-m` |  |  |  | [Minimap](https://atom.io/packages/minimap) |
+| Open File in Browser | `ctrl-alt-m` |  |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
+| Run Script | `ctrl-cmd-i` |  |  |  | [Script](https://atom.io/packages/script) - Keybinding remapped from original `cmd-i` to avoid conflict with Incremental Search |
+| Open Terminal | `ctrl-alt-t` |  |  |  | [Term2](https://atom.io/packages/term2) |
 | Open Project | `ctrl-cmd-p` | `alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
-| Open In | `ctrl-alt-o` |  |  | [Open In](https://atom.io/packages/open-in) |
-| Sublime Style Column Selection | `alt-mouse` |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
+| Open In | `ctrl-alt-o` |  |  |  | [Open In](https://atom.io/packages/open-in) |
+| Sublime Style Column Selection | `alt-mouse` |  |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
 ## apm
 
