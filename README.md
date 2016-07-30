@@ -12,43 +12,43 @@ Where the shortcut is provided by a package, I have added a link to the package.
 
 Some general keyboard shortcuts that I use frequently.
 
-| Command | Mac OS X | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
-| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
-| Open File (Fuzzy) | `cmd-p` | `ctrl-p`<br/>or<br/>`ctrl-t`  | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
-| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
-| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
-| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
-| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
+| Command | Mac OS X | Windows | Linux | Sublime | Description |
+| ------- | -------- | ------- | ----- | ------- | ----------- |
+| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | `-` | Opens the Preferences/Settings view |
+| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | `ctrl-shift-p` | Opens & closes the command palette |
+| Open File (Fuzzy) | `cmd-p` | `ctrl-p`<br/>or<br/>`ctrl-t`  | `ctrl-p` | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
+| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | `-` | Browse tabs within the window  |
+| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | `-` | Selects the language the file is in  |
+| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | `-` | Previews the file in the Markdown format |
+| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | `-` | Shows what keybindings the pressed key combination resolves to |
 | Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
-| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
-| Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
-| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
-| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | Shows the snippets available to Atom  |
+| Reload Atom | `ctrl-alt-cmd-l` | `ctrl-alt-r` | `ctrl-alt-r` | `-` | Reloads the Editor  |
+| Open Link | `ctrl-shift-o` |  |  |  | Opens up a HTTP or HTTPS link |
+| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | `-` | Opens up the Chrome Developer Tools/Console |
+| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | `-` | Shows the snippets available to Atom  |
 
 
 ## Window Management
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file in a new tab |
-| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | Opens a new editor window |
-| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | Shows the _Open File_ dialog, which lets you select a file to open in the editor |
-| Open Folder | `cmd-shift-o` | `ctrl-shift-o`  | `ctrl-shift-o` | Shows the _Open Folder_ dialog, which lets you select a folder to add to the editor's Tree View |
-| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` | Saves the currently active file |
-| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` | Saves the currently active file under a different name  |
+| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | `ctrl-n` | Opens an empty file in a new tab |
+| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | `ctrl-shift-n` | Opens a new editor window |
+| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | `-` | Shows the _Open File_ dialog, which lets you select a file to open in the editor |
+| Open Folder | `cmd-shift-o` | `ctrl-shift-o`  | `ctrl-shift-o` | `-` | Shows the _Open Folder_ dialog, which lets you select a folder to add to the editor's Tree View |
+| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` | `ctrl-s` | Saves the currently active file |
+| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` | `ctrl-shift-s` | Saves the currently active file under a different name  |
 | Save All | `alt-cmd-s` |  |  | Saves all changed files |
-| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
-| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
+| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | `ctrl-w` | Closes the currently active tab|
+| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | `ctrl-shift-w` | Closes the currently active editor window  |
 
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
-| Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | Deletes the current line |
-| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
+| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
+| Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | `-` | Deletes the current line |
+| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | `**ctrl-shift-up**` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
 | Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
 | Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
 | Find Next | `cmd-g` | `F3`  | `F3` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
